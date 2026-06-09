@@ -250,6 +250,11 @@ class Manager:
         -------
          float: The annual balance.
 
+        Example:
+        -------
+        >>> manager = Manager()
+        >>> manager.calculate_annual_balance(year=2023)
+
         """
 
     def check_transfers_tenant(self) -> bool:
