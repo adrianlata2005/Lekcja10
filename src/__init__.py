@@ -44,7 +44,6 @@ Highlights
 
 Authors
 ------
-Łukasz Kułacz - initial implementation, testing, documentation
-Documentation - Adrian Łata
+Łukasz Kułacz - initial implementation, testing, documentation - Adrian Łata
 
 """
